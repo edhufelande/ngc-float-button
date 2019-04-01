@@ -1,6 +1,7 @@
 {
   "name": "ngc-float-button",
-  "description": "Google Material Float Button - Implementation for Angular v4+",
+  "description": "Google Material Float Button - Implementation for Angular v7",
+  "version": "7.0.0",
   "scripts": {
     "transpile": "./node_modules/.bin/ngc",
     "package": "rollup -c",
