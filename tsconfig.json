@@ -2,6 +2,7 @@
   "compilerOptions": {
     "baseUrl": ".",
     "declaration": true,
+    "importHelpers": true,
     "stripInternal": true,
     "experimentalDecorators": true,
     "emitDecoratorMetadata": true,
@@ -32,6 +33,7 @@
     "dist"
   ],
   "angularCompilerOptions": {
-    "strictMetadataEmit": true
+    "strictMetadataEmit": true,
+	"preserveWhitespaces": false
   }
 }
